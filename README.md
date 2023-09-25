@@ -6,7 +6,6 @@
 このリポジトリのタスクはプロジェクトにて管理されています。
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
-https://github.com/Tesusu-1/lp-practice-static/projects/1
 https://github.com/users/Tesusu-1/projects/5
 
 # サイトのURL
